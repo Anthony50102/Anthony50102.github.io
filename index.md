@@ -229,7 +229,7 @@ permalink: /
   <div class="education-item">
     <h3>University of Texas at Austin</h3>
     <p><strong>B.S. in Physics | Minor in Computational Science</strong></p>
-    <p class="date">Expected 2025</p>
+    <p class="date">May 2025</p>
     <p>Favorite Courses: Quantum information science, distributed systems, unconventional computation</p>
   </div>
 </div>
