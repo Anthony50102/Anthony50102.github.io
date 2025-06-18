@@ -230,7 +230,7 @@ permalink: /
     <h3>University of Texas at Austin</h3>
     <p><strong>B.S. in Physics | Minor in Computational Science</strong></p>
     <p class="date">Expected 2025</p>
-    <p>Focus areas: Quantum information science, distributed systems, unconventional computation</p>
+    <p>Favorite Courses: Quantum information science, distributed systems, unconventional computation</p>
   </div>
 </div>
 
@@ -247,11 +247,13 @@ permalink: /
       <h4>Deep Learning for Chaotic Systems</h4>
       <p>Working with <a href="https://math.vt.edu/people/faculty/farcas-ionut-gabriel.html">Ionut Farcaș</a> on neural network approaches for modeling ergodic and chaotic dynamics, with applications in turbulence modeling.</p>
     </div>
-    
+
+    <!--
     <div class="research-card">
       <h4>AI for Code Security</h4>
       <p>Exploring advanced LLM applications in automated vulnerability detection and developing best practices for secure coding at scale.</p>
     </div>
+    -->
   </div>
 </div>
 
