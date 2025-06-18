@@ -66,7 +66,10 @@ permalink: /
 # Anthony Poole
 
 <div class="profile-section">
+  <!--
   <img src="IMG_0572.jpeg" alt="Anthony Poole" class="profile-image">
+  -->
+  <img src="IMG_0572.jpeg" class="profile-image">
   <div>
     <h1 style="margin-top: 0;">Hi, I'm Anthony! 👋</h1>
     <p style="font-size: 1.1rem; color: #555;">
@@ -212,9 +215,11 @@ permalink: /
   <p>Feel free to reach out if you'd like to discuss research collaborations, software engineering, or anything related to my work!</p>
   
   <ul style="list-style: none; padding: 0;">
-    <li>📧 Email: [your.email@example.com]</li>
-    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/anthony-poole-079548206/">[your-profile]</a></li>
-    <li>🐙 GitHub: <a href="https://github.com/Anthony50102">[your-username]</a></li>
+    <li>📧 Email: tonypp at utexas dot edu</li>
+    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/anthony-poole-079548206/">Me</a></li>
+    <li>🐙 GitHub: <a href="https://github.com/Anthony50102">Anthony50102</a></li>
+    <!--
     <li>🎓 Google Scholar: <a href="#">[Link]</a></li>
+    -->
   </ul>
 </div>
