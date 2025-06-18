@@ -15,7 +15,7 @@ permalink: /
   .profile-image {
     width: 200px;
     height: 200px;
-    border-radius: 50%;
+    border-radius: 8px;
     object-fit: cover;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
@@ -70,7 +70,7 @@ permalink: /
   <div>
     <h1 style="margin-top: 0;">Hi, I'm Anthony! 👋</h1>
     <p style="font-size: 1.1rem; color: #555;">
-      Security Engineer at Microsoft | Researcher in Computational Science
+      Software Engineer at Microsoft | Researcher in Computational Science
     </p>
   </div>
 </div>
@@ -78,10 +78,10 @@ permalink: /
 <div class="section">
   <h2>About Me</h2>
   <p>
-    I'm a software engineer and researcher passionate about the intersection of machine learning, security, and computational physics. I graduated from the University of Texas at Austin and currently work at Microsoft, where I develop an internal tool that leverages Large Language Models to help security engineers identify insecure code patterns across Microsoft's vast codebase.
+    I'm a software engineer and researcher passionate about the intersection of machine learning, security, and computational physics. I graduated from the University of Texas at Austin and currently work at Microsoft, where I develop an internal tool that leverages large language models to help security engineers identify insecure code patterns across Microsoft's vast codebase.
   </p>
   <p>
-    Beyond my industry work, I'm actively engaged in academic research, focusing on probabilistic reduced order models with the <a href="https://kiwi.oden.utexas.edu">Willcox Lab</a> and exploring deep learning approaches for physics-based models of ergodic and chaotic systems, particularly in turbulence applications, in collaboration with <a href="https://math.vt.edu/people/faculty/farcas-ionut-gabriel.html">Ionut Farcas</a>.
+    Aside from my industry work, I'm actively engaged in academic research, focusing on probabilistic reduced order models with the <a href="https://kiwi.oden.utexas.edu">Willcox Lab</a> and exploring deep learning approaches for physics-based models of ergodic and chaotic systems, particularly in turbulence applications, in collaboration with <a href="https://math.vt.edu/people/faculty/farcas-ionut-gabriel.html">Ionut Farcaș</a>.
   </p>
 </div>
 
@@ -89,22 +89,19 @@ permalink: /
   <h2>Experience</h2>
   
   <div class="experience-item">
-    <h3>Security Engineer</h3>
+    <h3>Software Engineer</h3>
     <p><strong>Microsoft</strong> | <span class="date">Present</span></p>
     <ul>
       <li>Developing internal tools using LLMs for automated security vulnerability detection</li>
       <li>Analyzing and improving code security across Microsoft's codebase</li>
-      <li>[Add more accomplishments and responsibilities]</li>
     </ul>
   </div>
   
-  <!-- Add more experience items here -->
   <div class="experience-item">
-    <h3>[Previous Position]</h3>
-    <p><strong>[Company]</strong> | <span class="date">[Start Date] - [End Date]</span></p>
+    <h3>Data Scientist</h3>
+    <p><strong>Kodiak Robotics</strong> | <span class="date">[Start Date] – [End Date]</span></p>
     <ul>
-      <li>[Key responsibility or achievement]</li>
-      <li>[Another accomplishment]</li>
+      <li>Developed Kodiak’s first high-level reasoning model, taking data inputs from across the stack to combine them into a single understanding of the vehicle’s state</li>
     </ul>
   </div>
 </div>
@@ -113,12 +110,10 @@ permalink: /
   <h2>Education</h2>
   
   <div class="education-item">
-    <h3>[Degree]</h3>
-    <p><strong>University of Texas at Austin</strong> | <span class="date">[Graduation Year]</span></p>
+    <h3>B.S. in Physics &amp; Minor in Computational Science</h3>
+    <p><strong>University of Texas at Austin</strong> | <span class="date">2025</span></p>
     <ul>
-      <li>[Major/Concentration]</li>
-      <li>[GPA, if notable]</li>
-      <li>[Relevant coursework or honors]</li>
+      <li>Quantum information science, distributed systems, unconventional computation</li>
     </ul>
   </div>
 </div>
@@ -128,22 +123,23 @@ permalink: /
   
   <h3>Current Research</h3>
   <ul>
-    <li><strong>Probabilistic Reduced Order Models</strong> - Working with the Willcox Lab on developing efficient computational methods for complex systems</li>
-    <li><strong>Deep Learning for Chaotic Systems</strong> - Investigating neural network approaches for modeling ergodic and chaotic dynamics, with applications in turbulence</li>
-    <li><strong>AI for Code Security</strong> - Exploring LLM applications in automated vulnerability detection and secure coding practices</li>
+    <li><strong>Probabilistic Reduced Order Models</strong> – Working with the Willcox Lab on developing efficient computational methods for complex systems</li>
+    <li><strong>Deep Learning for Chaotic Systems</strong> – Investigating neural network approaches for modeling ergodic and chaotic dynamics, with applications in turbulence</li>
+    <li><strong>AI for Code Security</strong> – Exploring LLM applications in automated vulnerability detection and secure coding practices</li>
   </ul>
   
   <h3>Areas of Interest</h3>
   <div class="tags">
     <span class="tag">Machine Learning</span>
     <span class="tag">Computational Physics</span>
-    <span class="tag">Security Engineering</span>
     <span class="tag">Scientific Computing</span>
     <span class="tag">Turbulence Modeling</span>
-    <span class="tag">LLMs</span>
+    <span class="tag">Chaotic Systems Modeling</span>
+    <span class="tag">Reduced Order Modeling</span>
   </div>
 </div>
 
+<!--
 <div class="section">
   <h2>Publications</h2>
   
@@ -152,8 +148,6 @@ permalink: /
     <p><em>[Authors]</em></p>
     <p>[Conference/Journal], [Year] | <a href="#">[Link]</a></p>
   </div>
-  
-  <!-- Add more publications as needed -->
 </div>
 
 <div class="section">
@@ -163,34 +157,6 @@ permalink: /
     <h3>[Project Name]</h3>
     <p>[Brief description of the project, its goals, and your contributions]</p>
     <p><a href="#">GitHub</a> | <a href="#">Demo</a> | <a href="#">Paper</a></p>
-  </div>
-  
-  <!-- Add more projects -->
-</div>
-
-<div class="section">
-  <h2>Skills</h2>
-  
-  <h3>Programming Languages</h3>
-  <div class="tags">
-    <span class="tag">Python</span>
-    <span class="tag">C++</span>
-    <span class="tag">[Add more]</span>
-  </div>
-  
-  <h3>Tools & Technologies</h3>
-  <div class="tags">
-    <span class="tag">PyTorch</span>
-    <span class="tag">TensorFlow</span>
-    <span class="tag">[Add more]</span>
-  </div>
-  
-  <h3>Areas of Expertise</h3>
-  <div class="tags">
-    <span class="tag">Machine Learning</span>
-    <span class="tag">Security Analysis</span>
-    <span class="tag">Scientific Computing</span>
-    <span class="tag">[Add more]</span>
   </div>
 </div>
 
@@ -208,21 +174,47 @@ permalink: /
   <h2>Honors & Awards</h2>
   
   <ul>
-    <li><strong>[Award Name]</strong> - [Awarding Organization], [Year]</li>
-    <li><strong>[Honor/Recognition]</strong> - [Details], [Year]</li>
+    <li><strong>[Award Name]</strong> – [Awarding Organization], [Year]</li>
+    <li><strong>[Honor/Recognition]</strong> – [Details], [Year]</li>
   </ul>
+</div>
+-->
+
+<div class="section">
+  <h2>Skills</h2>
+  
+  <h3>Programming Languages</h3>
+  <div class="tags">
+    <span class="tag">Python</span>
+    <span class="tag">C++</span>
+    <span class="tag">Java</span>
+  </div>
+  
+  <h3>Tools &amp; Technologies</h3>
+  <div class="tags">
+    <span class="tag">PyTorch</span>
+    <span class="tag">Jax</span>
+    <span class="tag">HPC</span>
+  </div>
+  
+  <h3>Areas of Expertise</h3>
+  <div class="tags">
+    <span class="tag">Machine Learning</span>
+    <span class="tag">Scientific Computing</span>
+    <span class="tag">Data Science</span>
+    <span class="tag">Inferential Stats</span>
+  </div>
 </div>
 
 <div class="section">
   <h2>Contact</h2>
   
-  <p>Feel free to reach out if you'd like to discuss research collaborations, security engineering, or anything related to my work!</p>
+  <p>Feel free to reach out if you'd like to discuss research collaborations, software engineering, or anything related to my work!</p>
   
   <ul style="list-style: none; padding: 0;">
     <li>📧 Email: [your.email@example.com]</li>
-    <li>🔗 LinkedIn: <a href="https://linkedin.com/in/[your-profile]">[your-profile]</a></li>
-    <li>🐙 GitHub: <a href="https://github.com/[your-username]">[your-username]</a></li>
+    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/anthony-poole-079548206/">[your-profile]</a></li>
+    <li>🐙 GitHub: <a href="https://github.com/Anthony50102">[your-username]</a></li>
     <li>🎓 Google Scholar: <a href="#">[Link]</a></li>
-    <li>🐦 Twitter: <a href="https://twitter.com/[your-handle]">@[your-handle]</a></li>
   </ul>
 </div>
