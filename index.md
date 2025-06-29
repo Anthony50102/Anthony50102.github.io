@@ -198,7 +198,7 @@ permalink: /
   <div class="hero-content">
     <h1>Hi, I'm Anthony! 👋</h1>
     <p class="subtitle">Software Engineer at Microsoft | Researcher in Computational Science</p>
-    <p>Passionate about machine learning, security, and computational physics. Currently developing LLM-powered tools for code security at Microsoft while pursuing research in probabilistic modeling and chaotic systems.</p>
+    <p>I enjoy working at the intersection of math, physics and computer science. Currently developing LLM-powered tools for code security at Microsoft while pursuing research in probabilistic modeling and chaotic systems.</p>
     <div class="quick-links">
       <a href="mailto:tonypp@utexas.edu">📧 Email</a>
       <a href="https://www.linkedin.com/in/anthony-poole-079548206/">🔗 LinkedIn</a>
@@ -220,6 +220,18 @@ permalink: /
     <h3>Data Scientist - Kodiak Robotics</h3>
     <p class="date">Previous Role</p>
     <p>Developed Kodiak's first high-level reasoning model, integrating data inputs from across the autonomous vehicle stack to create a unified understanding of vehicle state and environment.</p>
+  </div>
+
+  <div class="experience-item">
+    <h3>Machine Learning Intern - Advanced Micro Devices</h3>
+    <p class="date">Previous Role</p>
+    <p>Developed unsupervised computer vision and image processing models and pipelines for non-destructive damage analysis of mi300 chips in production.</p>
+  </div>
+
+  <div class="experience-item">
+    <h3>Software Engineer - Applied Research Laboratories</h3>
+    <p class="date">Previous Role</p>
+    <p>Developed navigation and perception software for autonomous submarines.</p>
   </div>
 </div>
 
@@ -291,7 +303,7 @@ permalink: /
 
 <div class="section">
   <h2>Let's Connect</h2>
-  <p>I'm always interested in discussing research collaborations, software engineering challenges, or the intersection of AI and scientific computing.</p>
+  <p>I'm always interested in discussing research collaborations, software challenges, or really anything interesting!.</p>
   
   <div class="contact-grid">
     <a href="mailto:tonypp@utexas.edu" class="contact-item">
