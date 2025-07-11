@@ -197,7 +197,7 @@ permalink: /
   <img src="IMG_0572.jpeg" alt="Anthony Poole" class="profile-image">
   <div class="hero-content">
     <h1>Hi, I'm Anthony! 👋</h1>
-    <p class="subtitle">Software Engineer at Microsoft | Researcher in Computational Science</p>
+    <p class="subtitle">Software Engineer at Microsoft | Researcher in Applied Math</p>
     <p>I enjoy working at the intersection of math, physics and computer science. Currently developing LLM-powered tools for code security at Microsoft while pursuing research in probabilistic modeling and chaotic systems.</p>
     <div class="quick-links">
       <a href="mailto:tonypp@utexas.edu">📧 Email</a>
@@ -296,14 +296,14 @@ permalink: /
     <span class="tag">Turbulence Modeling</span>
     <span class="tag">Chaotic Systems</span>
     <span class="tag">Reduced Order Modeling</span>
-    <span class="tag">LLM Applications</span>
-    <span class="tag">Code Security</span>
+    <span class="tag">Bayesian Methods</span>
+    <span class="tag">SciML</span>
   </div>
 </div>
 
 <div class="section">
   <h2>Let's Connect</h2>
-  <p>I'm always interested in discussing research collaborations, software challenges, or really anything interesting!.</p>
+  <p>I'm always interested in discussing research collaborations, software, or really anything interesting!.</p>
   
   <div class="contact-grid">
     <a href="mailto:tonypp@utexas.edu" class="contact-item">
