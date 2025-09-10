@@ -217,7 +217,7 @@ permalink: /
   </div>
   
   <div class="experience-item">
-    <h3>Data Scientist - Kodiak Robotics</h3>
+    <h3>Data Science Intern - Kodiak Robotics</h3>
     <p class="date">Previous Role</p>
     <p>Developed Kodiak's first high-level reasoning model, integrating data inputs from across the autonomous vehicle stack to create a unified understanding of vehicle state and environment.</p>
   </div>
@@ -229,7 +229,7 @@ permalink: /
   </div>
 
   <div class="experience-item">
-    <h3>Software Engineer - Applied Research Laboratories</h3>
+    <h3>Software Engineer Intern - Applied Research Laboratories</h3>
     <p class="date">Previous Role</p>
     <p>Developed navigation and perception software for autonomous submarines.</p>
   </div>
