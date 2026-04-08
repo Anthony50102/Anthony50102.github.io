@@ -198,6 +198,47 @@ permalink: /
 </div>
 
 <div class="section">
+  <h2>Research & Publications</h2>
+  <p>Research assistant at the <a href="https://kiwi.oden.utexas.edu">Willcox Lab</a> and with <a href="https://math.vt.edu/people/faculty/farcas-ionut-gabriel.html">Ionut Farcaș</a> at the Oden Institute, UT Austin (Oct 2023 — Present).</p>
+  
+  <div class="research-grid">
+    <div class="research-card">
+      <h4><a href="https://arxiv.org/html/2602.04287v1">Convolution Operator Network for Forward and Inverse Problems (FI-Conv): Application to Plasma Turbulence Simulations</a></h4>
+      <p>Xingzhuo Chen, <strong>Anthony Poole</strong>, Ionut Farcas, David Hatch, Ulisses Braga-Neto</p>
+      <p class="date">Submitted to Journal of Computational Physics · <a href="https://arxiv.org/html/2602.04287v1">arXiv</a></p>
+    </div>
+
+    <div class="research-card">
+      <h4>Short-Term Forecasting vs Long-Term Statistical Fidelity in Learned Turbulent Systems</h4>
+      <p><strong>Anthony Poole</strong>, Ionut Farcas et al.</p>
+      <p class="date">Submitted to Journal of Computational Physics · email for pre-print</p>
+    </div>
+
+    <div class="research-card">
+      <h4>Probabilistic Scientific Machine Learning via Bayesian Model Reduction</h4>
+      <p><strong>Anthony Poole</strong>, Anirban Choudary, Karen Willcox</p>
+      <p class="date">In progress · email for pre-print</p>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Talks & Conferences</h2>
+
+  <div class="experience-item">
+    <h3>Microelectronics US — Speaker</h3>
+    <p class="date">Upcoming</p>
+    <p>Invited talk on digital twin technology and virtual prototyping.</p>
+  </div>
+
+  <div class="experience-item">
+    <h3>IPAM Workshop IV: Multi-Fidelity Methods for Robust Optimization and Real-Time Control of Fusion Processes — UCLA</h3>
+    <p class="date">May 18–22, 2026</p>
+    <p>Attendee.</p>
+  </div>
+</div>
+
+<div class="section">
   <h2>Experience</h2>
   
   <div class="experience-item">
@@ -239,31 +280,6 @@ permalink: /
     <p><strong>B.S. in Physics | Minor in Computational Science</strong></p>
     <p class="date">May 2025</p>
     <p>Favorite Courses: Quantum information science, distributed systems, unconventional computation</p>
-  </div>
-</div>
-
-<div class="section">
-  <h2>Research & Publications</h2>
-  <p>Research assistant at the <a href="https://kiwi.oden.utexas.edu">Willcox Lab</a> and with <a href="https://math.vt.edu/people/faculty/farcas-ionut-gabriel.html">Ionut Farcaș</a> at the Oden Institute, UT Austin (Oct 2023 — Present).</p>
-  
-  <div class="research-grid">
-    <div class="research-card">
-      <h4><a href="https://arxiv.org/html/2602.04287v1">Convolution Operator Network for Forward and Inverse Problems (FI-Conv): Application to Plasma Turbulence Simulations</a></h4>
-      <p>Xingzhuo Chen, <strong>Anthony Poole</strong>, Ionut Farcas, David Hatch, Ulisses Braga-Neto</p>
-      <p class="date">Submitted to Journal of Computational Physics · <a href="https://arxiv.org/html/2602.04287v1">arXiv</a></p>
-    </div>
-
-    <div class="research-card">
-      <h4>Short-Term Forecasting vs Long-Term Statistical Fidelity in Learned Turbulent Systems</h4>
-      <p><strong>Anthony Poole</strong>, Ionut Farcas et al.</p>
-      <p class="date">Submitted to Journal of Computational Physics · email for pre-print</p>
-    </div>
-
-    <div class="research-card">
-      <h4>Probabilistic Scientific Machine Learning via Bayesian Model Reduction</h4>
-      <p><strong>Anthony Poole</strong>, Anirban Choudary, Karen Willcox</p>
-      <p class="date">In progress · email for pre-print</p>
-    </div>
   </div>
 </div>
 
