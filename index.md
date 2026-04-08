@@ -5,19 +5,9 @@ permalink: /
 ---
 
 <style>
-  /* Override Cayman theme's large header */
+  /* Hide Cayman theme header — hero section below covers it */
   .page-header {
-    padding: 2rem 1rem !important;
-    background-image: linear-gradient(120deg, #155799, #159957) !important;
-  }
-  
-  .project-name {
-    font-size: 2.25rem !important;
-  }
-  
-  .project-tagline {
-    font-size: 1.15rem !important;
-    opacity: 0.9;
+    display: none !important;
   }
   
   /* Main content styling */
@@ -212,26 +202,32 @@ permalink: /
   
   <div class="experience-item">
     <h3>Software Engineer - Microsoft</h3>
-    <p class="date">Present</p>
-    <p>Building internal security tools that leverage large language models to identify vulnerabilities and insecure code patterns across Microsoft's extensive codebase. Focused on improving code security through automated analysis and intelligent pattern detection.</p>
+    <p class="date">June 2025 — Present · Redmond, WA</p>
+    <p>Architected the AI agent harness and MCP for Microsoft's Code Analysis Platform, enabling automated vulnerability detection and fix generation. Built an A/B testing framework for evaluating agent configurations, improving fix quality by ~350%. Owned the platform's data pipeline using Databricks, Spark, and dbt—cutting processing time by 500×.</p>
+  </div>
+
+  <div class="experience-item">
+    <h3>Software Engineer Intern - Microsoft</h3>
+    <p class="date">May 2024 — Aug 2024 · Redmond, WA</p>
+    <p>Designed a code understanding model enabling function-level search across Microsoft's codebase in multiple languages (92% on internal benchmarks). Built an advanced RAG system for security researchers, achieving 80% adoption and reducing average vulnerability research time by 60%.</p>
   </div>
   
   <div class="experience-item">
     <h3>Data Science Intern - Kodiak Robotics</h3>
-    <p class="date">Previous Role</p>
-    <p>Developed Kodiak's first high-level reasoning model, integrating data inputs from across the autonomous vehicle stack to create a unified understanding of vehicle state and environment.</p>
+    <p class="date">Jan 2024 — May 2024 · Mountain View, CA</p>
+    <p>Built an Operational Design Domain model using data fusion, ensemble methods, and deep learning CV to classify in real time whether the AV was operating within its design envelope. Advanced the safety case through novel Bayesian statistical models informing engineering priorities.</p>
   </div>
 
   <div class="experience-item">
-    <h3>Machine Learning Intern - Advanced Micro Devices</h3>
-    <p class="date">Previous Role</p>
-    <p>Developed unsupervised computer vision and image processing models and pipelines for non-destructive damage analysis of mi300 chips in production.</p>
+    <h3>Machine Learning Engineer Co-Op - AMD</h3>
+    <p class="date">Aug 2023 — Dec 2023 · Austin, TX</p>
+    <p>Designed an unsupervised image segmentation algorithm to quantify TIM delamination, reducing analysis error by >10%. Built a C++ Python package for geometric analytics, improving speed by >5,000× and adopted by ~20 engineers.</p>
   </div>
 
   <div class="experience-item">
     <h3>Software Engineer Intern - Applied Research Laboratories</h3>
-    <p class="date">Previous Role</p>
-    <p>Developed navigation and perception software for autonomous submarines.</p>
+    <p class="date">May 2023 — Aug 2023 · Austin, TX</p>
+    <p>Distilled U-Net and SAM segmentation models into smaller architectures for seafloor imaging, improving submarine battery life by 15% without sacrificing accuracy.</p>
   </div>
 </div>
 
@@ -247,25 +243,27 @@ permalink: /
 </div>
 
 <div class="section">
-  <h2>Research</h2>
+  <h2>Research & Publications</h2>
+  <p>Research assistant at the <a href="https://kiwi.oden.utexas.edu">Willcox Lab</a> and with <a href="https://math.vt.edu/people/faculty/farcas-ionut-gabriel.html">Ionut Farcaș</a> at the Oden Institute, UT Austin (Oct 2023 — Present).</p>
   
   <div class="research-grid">
     <div class="research-card">
-      <h4>Probabilistic Reduced Order Models</h4>
-      <p>Collaborating with the <a href="https://kiwi.oden.utexas.edu">Willcox Lab</a> on developing efficient computational methods for complex systems using probabilistic approaches.</p>
-    </div>
-    
-    <div class="research-card">
-      <h4>Deep Learning for Chaotic Systems</h4>
-      <p>Working with <a href="https://math.vt.edu/people/faculty/farcas-ionut-gabriel.html">Ionut Farcaș</a> on neural network approaches for modeling ergodic and chaotic dynamics, with applications in turbulence modeling.</p>
+      <h4><a href="https://arxiv.org/html/2602.04287v1">Convolution Operator Network for Forward and Inverse Problems (FI-Conv): Application to Plasma Turbulence Simulations</a></h4>
+      <p>Xingzhuo Chen, <strong>Anthony Poole</strong>, Ionut Farcas, David Hatch, Ulisses Braga-Neto</p>
+      <p class="date">Submitted to Journal of Computational Physics · <a href="https://arxiv.org/html/2602.04287v1">arXiv</a></p>
     </div>
 
-    <!--
     <div class="research-card">
-      <h4>AI for Code Security</h4>
-      <p>Exploring advanced LLM applications in automated vulnerability detection and developing best practices for secure coding at scale.</p>
+      <h4>Short-Term Forecasting vs Long-Term Statistical Fidelity in Learned Turbulent Systems</h4>
+      <p><strong>Anthony Poole</strong>, Ionut Farcas et al.</p>
+      <p class="date">Submitted to Journal of Computational Physics · email for pre-print</p>
     </div>
-    -->
+
+    <div class="research-card">
+      <h4>Probabilistic Scientific Machine Learning via Bayesian Model Reduction</h4>
+      <p><strong>Anthony Poole</strong>, Anirban Choudary, Karen Willcox</p>
+      <p class="date">In progress · email for pre-print</p>
+    </div>
   </div>
 </div>
 
