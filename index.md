@@ -227,7 +227,7 @@ permalink: /
 
   <div class="experience-item">
     <h3>Microelectronics US — Speaker</h3>
-    <p class="date">Upcoming</p>
+    <p class="date">April 22, 2026</p>
     <p>Invited talk on digital twin technology and virtual prototyping.</p>
   </div>
 
