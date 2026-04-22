@@ -190,6 +190,7 @@ permalink: /
     <p class="subtitle">Software Engineer at Microsoft | Researcher in Applied Math</p>
     <p>I enjoy working at the intersection of math, physics and computer science. Currently developing LLM-powered tools for code security at Microsoft while pursuing research in probabilistic modeling and chaotic systems.</p>
     <div class="quick-links">
+      <a href="https://polite-bay-0ce42d810.6.azurestaticapps.net/">🤖 Ask Your Twin (Live Demo)</a>
       <a href="mailto:tonypp@utexas.edu">📧 Email</a>
       <a href="https://www.linkedin.com/in/anthony-poole-079548206/">🔗 LinkedIn</a>
       <a href="https://github.com/Anthony50102">🐙 GitHub</a>
